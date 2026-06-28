@@ -1,0 +1,44 @@
+# 📡 Module 1: Calling an LLM API
+
+Every AI agent begins by communicating with a Large Language Model (LLM). Before building tool-calling agents, ReAct agents, or multi-agent systems, it's essential to understand how applications interact with an LLM through an API.
+
+In this module, we will use **OpenRouter**, an OpenAI-compatible API gateway, to make our first LLM API call. We'll learn how requests are sent, how responses are received, and what happens behind the scenes during this communication.
+
+## 📚 Topics Covered
+
+- Introduction
+- What is an API?
+- Why do we need APIs?
+- What is an LLM API?
+- What is OpenRouter?
+- Why OpenRouter over provider-specific APIs?
+- Request–Response Lifecycle
+- Calling our First LLM
+
+## 🎯 Learning Outcome
+
+After completing this module, you will be able to:
+
+- Understand how applications communicate with LLMs.
+- Make API calls using OpenRouter.
+- Read and understand JSON responses.
+- Build the foundation required for creating AI agents.
+
+---
+
+## 📝 Summary
+
+In this module, we learned the fundamental building block of every AI application—LLM APIs. We explored why APIs are needed, how OpenRouter simplifies access to multiple models, and how a request travels from our Python application to an LLM and back. This knowledge will serve as the foundation for the upcoming modules, where we'll build intelligent AI agents capable of reasoning and using external tools.
+
+---
+
+## 📚 References
+
+- OpenRouter Documentation  
+  https://openrouter.ai/docs
+
+- OpenAI API Documentation  
+  https://platform.openai.com/docs
+
+- Requests Library  
+  https://requests.readthedocs.io/
