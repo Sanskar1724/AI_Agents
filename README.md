@@ -113,7 +113,6 @@ Build a complete **Reason + Act** agent from scratch.
 - Observation
 - Multi-step Reasoning
 
-
 ---
 
 ## 💻 Module 4 — Code Agent
@@ -148,9 +147,7 @@ Learn how modern LLMs perform built-in function calling without manual parsing.
 - Python
 - Google Colab
 - OpenRouter API
-- OpenAI SDK
-- JSON Schema
-- Requests
+- JSON Schemas
 - Wikipedia API
 - Python Standard Library
 
@@ -241,4 +238,3 @@ If you found this repository helpful:
 ## 📄 License
 
 This project is intended for educational purposes and personal learning.
-
